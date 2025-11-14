@@ -1,3 +1,8 @@
+# AREECM python dictionary
+# Order: Element: [total_electrons_found_in_element: {orbital:[pmin, pmax]}]
+# Originating from Armstrong's Range Exponent Electron Configuration Model (AREECM) Table 3
+
+
 areecm_digital_dictionary = {
     "H": [1, {"1s": [1.0, 1.0]}],
     "He": [2, {"1s": [1.0, 1.0]}],
